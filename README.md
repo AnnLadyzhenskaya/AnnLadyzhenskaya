@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **AnnLadyzhenskaya/AnnLadyzhenskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 
 <div align="center">
-  <img src="https://github.com/AnnLadyzhenskaya/AnnLadyzhenskaya/blob/main/IMG_3155.JPG" width="600" height="300"/>
+  <img src="https://github.com/AnnLadyzhenskaya/AnnLadyzhenskaya/blob/main/IMG_3155.JPG" width="100%" height="auto"/>
 </div>
-
----
 
 ### :woman_technologist: About Me :
 - 🌱 I'm a junior QA Automation Engineer
