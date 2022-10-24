@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - :heart_eyes: I’m passionate about creating and executing automated test cases
 - :computer: I have strong background as full stack web developer with total experience of 2 years
 - :moneybag: Before being a developer I worked as a financist at one of the biggest banks in Ukraine for 3 years
+- :sob: I cried for two weeks after watching "Cyberpunk: Edgerunners"
